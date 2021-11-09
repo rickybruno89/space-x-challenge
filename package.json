@@ -1,0 +1,16 @@
+{
+  "name": "space-x-challenge",
+  "version": "1.0.0",
+  "description": "API Rest project for space-x-challenge. NaNLABS Interview",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Ricardo Bruno",
+  "license": "ISC"
+}
